@@ -1,0 +1,16 @@
+========= 1.
+aiplayapp. Code: FormPropertiesAnalyzer.java
+   it checks for unix style ; LF only. Windows might've created CRLF .scm file
+   You'll need to use notepadd++ Edit option, to chanse EOL to unix style
+   After that, zip aiplayapp, and make it importable as .aia
+======== 2.
+Python Script to create Visible and Non Visible Components boilerplate code.
+
+run: python misc/componentcreator/componentcreator.py
+
+PIL needs to be installed to resize icons automatically.
+
+Windows users should install python before using the script.
+
+Link to the design document:
+https://docs.google.com/document/d/1HetZsFh6x0n6J_9PW_OFUzU4icw0y2kdnzUvbqwtcBQ/edit
