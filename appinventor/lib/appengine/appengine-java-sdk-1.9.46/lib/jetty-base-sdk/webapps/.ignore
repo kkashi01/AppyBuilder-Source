@@ -1,0 +1,11 @@
+#Intellij
+.idea/
+*.iws
+*.iml
+*.ipr
+
+#
+build/
+appinventor/buildserver/build/
+
+

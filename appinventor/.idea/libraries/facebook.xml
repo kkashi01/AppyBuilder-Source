@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="facebook">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/facebook/audience-network-sdk-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/facebook/audience-network-sdk-5.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="appybuilder">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/appybuilder/styledtoast.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/appybuilder/fancydialog.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/appybuilder/glide-3.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/appybuilder/picasso-2.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/appybuilder/image-library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

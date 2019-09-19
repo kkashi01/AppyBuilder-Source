@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib-gwt-svg-0.5.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/gwt_svg/lib-gwt-svg-0.5.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

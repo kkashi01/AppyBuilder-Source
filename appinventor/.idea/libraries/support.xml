@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="support">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-core-utils-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-media-compat-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-v4-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-v4-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/testing-support-R-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/runtime-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-compat-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-annotations-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/lifecycle-common-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-core-ui-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/internal_impl-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-fragment-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-annotations-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/core-common-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/animated-vector-drawable-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/appcompat-v7-26.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/appcompat-v7-22.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/android/support/support-vector-drawable-26.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

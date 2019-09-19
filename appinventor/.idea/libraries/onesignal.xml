@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="onesignal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/monetization/onesignal/onesignal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
